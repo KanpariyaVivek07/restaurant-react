@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "name": "Veggie Burger",
+            "image": "image/vegetarian/Veggie Burger.jpeg",
+            "description": "House-made black bean and quinoa patty with all the classic burger fixings.",
+            "price": 12.99,
+            "originalPrice": 14.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Stuffed Bell Peppers",
+            "image": "image/vegetarian/Stuffed Bell Peppers.jpeg",
+            "description": "Bell peppers filled with quinoa, black beans, corn, and cheese, baked to perfection.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 5
+        },
+        {
+            "name": "Eggplant Parmesan",
+            "image": "image/vegetarian/Eggplant Parmesan.jpeg",
+            "description": "Breaded and fried eggplant slices layered with marinara and melted mozzarella.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Mushroom Risotto",
+           "image": "image/vegetarian/Mushroom Risotto.jpeg",
+            "description": "Creamy arborio rice cooked with mushrooms, white wine, and parmesan cheese.",
+            "price": 15.99,
+            "originalPrice": 17.99,
+            "rating": 5
+        },
+        {
+            "name": "Spinach & Ricotta Stuffed Shells",
+            "image": "image/vegetarian/Spinach & Ricotta Stuffed Shells.jpeg",
+            "description": "Jumbo pasta shells filled with ricotta and spinach, baked in marinara sauce.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Vegetable Stir Fry",
+            "image": "image/vegetarian/Vegetable Stir Fry.jpeg",
+            "description": "Seasonal vegetables stir-fried in garlic ginger sauce, served over rice.",
+            "price": 12.99,
+            "originalPrice": 14.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Caprese Salad",
+            "image": "image/vegetarian/Caprese Salad.jpeg",
+            "description": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic glaze.",
+            "price": 10.99,
+            "originalPrice": 11.99,
+            "rating": 5
+        },
+        {
+            "name": "Sweet Potato Curry",
+            "image": "image/vegetarian/Sweet Potato Curry.jpeg",
+            "description": "Coconut milk curry with sweet potatoes, chickpeas, and spinach.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 4.5
+        }
+    ]
+}

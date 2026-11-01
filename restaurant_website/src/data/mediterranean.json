@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "name": "Hummus",
+            "image": "image/mediterranean/Hummus.jpeg",
+            "description": "Creamy chickpea dip with tahini, lemon, and garlic, served with pita bread.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Falafel",
+            "image": "image/mediterranean/Falafel.jpeg",
+            "description": "Crispy fried chickpea patties with tahini sauce, served in pita with vegetables.",
+            "price": 10.99,
+            "originalPrice": 11.99,
+            "rating": 5
+        },
+        {
+            "name": "Greek Salad",
+            "image": "image/mediterranean/Greek Salad.jpeg",
+            "description": "Fresh salad with tomatoes, cucumber, red onion, olives, and feta cheese.",
+            "price": 11.99,
+            "originalPrice": 12.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Chicken Shawarma",
+            "image": "image/mediterranean/Chicken Shawarma.jpeg",
+            "description": "Marinated chicken cooked on a spit, served with garlic sauce and pita bread.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 5
+        },
+        {
+            "name": "Moussaka",
+            "image": "image/mediterranean/Moussaka.jpeg",
+            "description": "Layered eggplant dish with spiced ground meat and béchamel sauce.",
+            "price": 15.99,
+            "originalPrice": 17.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Dolma",
+            "image": "image/mediterranean/Dolma.jpeg",
+            "description": "Grape leaves stuffed with rice, herbs, and sometimes meat.",
+            "price": 9.99,
+            "originalPrice": 10.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Baklava",
+            "image": "image/mediterranean/Baklava.jpeg",
+            "description": "Sweet pastry made of layers of filo filled with chopped nuts and sweetened with syrup.",
+            "price": 6.99,
+            "originalPrice": 7.99,
+            "rating": 5
+        },
+        {
+            "name": "Tzatziki",
+            "image": "image/mediterranean/Tzatziki.jpeg",
+            "description": "Yogurt and cucumber dip with garlic and dill, perfect with pita or grilled meats.",
+            "price": 7.99,
+            "originalPrice": 8.99,
+            "rating": 4.5
+        }
+    ]
+}

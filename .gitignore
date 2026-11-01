@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives
+*.zip
+
+# Databases / local data
+*.db
+*.sqlite

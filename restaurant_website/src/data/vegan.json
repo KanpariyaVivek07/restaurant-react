@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "name": "Vegan Buddha Bowl",
+            "image": "image/vegan/Vegan Buddha Bowl.jpeg",
+            "description": "Roasted vegetables, quinoa, chickpeas, and greens with tahini dressing.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Vegan Tacos",
+            "image": "image/vegan/Vegan Tacos.jpeg",
+            "description": "Lentil-walnut meat tacos with avocado, cilantro lime sauce, and fresh veggies.",
+            "price": 12.99,
+            "originalPrice": 14.99,
+            "rating": 5
+        },
+        {
+            "name": "Vegan Mac & Cheese",
+            "image": "image/vegan/Vegan Mac & Cheese.jpeg",
+            "description": "Creamy cashew-based cheese sauce with elbow macaroni.",
+            "price": 11.99,
+            "originalPrice": 13.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Vegan Burger",
+            "image": "image/vegan/Vegan Burger.jpeg",
+            "description": "Beet and black bean patty with all the fixings on a whole grain bun.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 5
+        },
+        {
+            "name": "Vegan Pad Thai",
+            "image": "image/vegan/Vegan Pad Thai.jpeg",
+            "description": "Rice noodles with tofu, bean sprouts, and peanuts in tangy tamarind sauce.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Vegan Chocolate Cake",
+            "image": "image/vegan/Vegan Chocolate Cake.jpeg",
+            "description": "Rich and moist chocolate cake with dairy-free chocolate frosting.",
+            "price": 7.99,
+            "originalPrice": 8.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Vegan Lentil Soup",
+            "image": "image/vegan/Vegan Lentil Soup.jpeg",
+            "description": "Hearty lentil soup with vegetables and warming spices.",
+            "price": 9.99,
+            "originalPrice": 10.99,
+            "rating": 5
+        },
+        {
+            "name": "Vegan Smoothie Bowl",
+            "image": "image/vegan/Vegan Smoothie Bowl.jpeg",
+            "description": "Thick smoothie base topped with fresh fruit, granola, and coconut flakes.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 4.5
+        }
+    ]
+}

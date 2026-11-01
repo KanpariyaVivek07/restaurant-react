@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "name": "Sushi Platter",
+            "image": "image/japanese/Sushi Platter.jpeg",
+            "description": "Assortment of fresh nigiri and maki sushi with wasabi, ginger, and soy sauce.",
+            "price": 24.99,
+            "originalPrice": 27.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Tonkotsu Ramen",
+           "image": "image/japanese/Tonkotsu Ramen.jpeg",
+            "description": "Rich pork bone broth with noodles, chashu pork, soft-boiled egg, and vegetables.",
+            "price": 15.99,
+            "originalPrice": 17.99,
+            "rating": 5
+        },
+        {
+            "name": "Tempura Platter",
+            "image": "image/japanese/Tempura Platter.jpeg",
+            "description": "Lightly battered and fried shrimp and vegetables with tentsuyu dipping sauce.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Teriyaki Chicken",
+            "image": "image/japanese/Teriyaki Chicken.jpeg",
+            "description": "Grilled chicken glazed with sweet teriyaki sauce, served with rice and vegetables.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 5
+        },
+        {
+            "name": "Gyoza",
+            "image": "image/japanese/Gyoza.jpeg",
+            "description": "Japanese pan-fried dumplings filled with pork and vegetables, served with dipping sauce.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Unagi Don",
+            "image": "image/japanese/Unagi Don.jpeg",
+            "description": "Grilled freshwater eel over rice with sweet soy-based sauce.",
+            "price": 18.99,
+            "originalPrice": 20.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Miso Soup",
+            "image": "image/japanese/Miso Soup.jpeg",
+            "description": "Traditional Japanese soup with tofu, seaweed, and green onions in miso broth.",
+            "price": 4.99,
+            "originalPrice": 5.99,
+            "rating": 5
+        },
+        {
+            "name": "Matcha Ice Cream",
+            "image": "image/japanese/Matcha Ice Cream.jpeg",
+            "description": "Green tea flavored ice cream with a perfect balance of sweetness and bitterness.",
+            "price": 6.99,
+            "originalPrice": 7.99,
+            "rating": 4.5
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "name": "Fresh Lemonade",
+            "image": "image/beverages/Fresh Lemonade.jpeg",
+            "description": "Homemade lemonade with fresh squeezed lemons and a hint of mint.",
+            "price": 3.99,
+            "originalPrice": 4.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Iced Coffee",
+           "image": "image/beverages/Iced Coffee.jpeg",
+            "description": "Cold brewed coffee with milk and sweetener of your choice.",
+            "price": 4.99,
+            "originalPrice": 5.99,
+            "rating": 5
+        },
+        {
+            "name": "Mojito",
+            "image": "image/beverages/Mojito.jpeg",
+            "description": "Classic Cuban cocktail with rum, lime, mint, and soda water.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Fresh Orange Juice",
+            "image": "image/beverages/Fresh Orange Juice.jpeg",
+            "description": "Cold pressed orange juice made from fresh oranges.",
+            "price": 4.99,
+            "originalPrice": 5.99,
+            "rating": 5
+        },
+        {
+            "name": "Iced Tea",
+           "image": "image/beverages/Iced Tea.jpeg",
+            "description": "Freshly brewed black tea served over ice with lemon.",
+            "price": 3.99,
+            "originalPrice": 4.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Berry Smoothie",
+            "image": "image/beverages/Berry Smoothie.jpeg",
+            "description": "Blend of mixed berries, yogurt, and honey.",
+            "price": 5.99,
+            "originalPrice": 6.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Cappuccino",
+            "image": "image/beverages/Cappuccino.jpeg",
+            "description": "Espresso with steamed milk and foam, dusted with cocoa powder.",
+            "price": 4.99,
+            "originalPrice": 5.99,
+            "rating": 5
+        },
+        {
+            "name": "Hot Chocolate",
+            "image": "image/beverages/Hot Chocolate.jpeg",
+            "description": "Rich chocolate drink topped with whipped cream and marshmallows.",
+            "price": 4.99,
+            "originalPrice": 5.99,
+            "rating": 4.5
+        }
+    ]
+}

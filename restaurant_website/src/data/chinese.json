@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "name": "Kung Pao Chicken",
+            "image": "image/chinese/Kung Pao Chicken.jpeg",
+            "description": "Spicy stir-fried chicken with peanuts, vegetables, and chili peppers in a savory sauce.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Pork Dumplings",
+            "image": "image/chinese/Pork Dumplings.jpeg",
+            "description": "Steamed dumplings filled with seasoned pork and vegetables. Served with soy-vinegar dip.",
+            "price": 8.99,
+            "originalPrice": 10.99,
+            "rating": 5
+        },
+        {
+            "name": "Peking Duck",
+            "image": "image/chinese/Peking Duck.jpeg",
+            "description": "Crispy roasted duck served with thin pancakes, hoisin sauce, and scallions.",
+            "price": 24.99,
+            "originalPrice": 27.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Mapo Tofu",
+            "image": "image/chinese/Mapo Tofu.jpeg",
+            "description": "Spicy Sichuan dish with soft tofu in a fiery sauce with minced pork and Sichuan peppercorns.",
+            "price": 11.99,
+            "originalPrice": 13.99,
+            "rating": 5
+        },
+        {
+            "name": "Hot and Sour Soup",
+            "image": "image/chinese/Hot and Sour Soup.jpeg",
+            "description": "A bold and flavorful soup with mushrooms, tofu, bamboo shoots in a spicy and tangy broth.",
+            "price": 6.99,
+            "originalPrice": 7.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Chicken Chow Mein",
+            "image": "image/chinese/Chicken Chow Mein.jpeg",
+            "description": "Stir-fried noodles with chicken, vegetables, and a savory sauce. A classic takeout favorite.",
+            "price": 12.99,
+            "originalPrice": 14.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Spring Rolls",
+            "image": "image/chinese/Spring Rolls.jpeg",
+            "description": "Crispy fried rolls fRilled with vegetables and sometimes meat. Served with sweet chili sauce.",
+            "price": 7.99,
+            "originalPrice": 8.99,
+            "rating": 5
+        },
+        {
+            "name": "Egg Fried Rice",
+            "image": "image/chinese/Egg Fried Rice.jpeg",
+            "description": "Classic fried rice with eggs, peas, carrots, and green onions. Perfect side dish.",
+            "price": 9.99,
+            "originalPrice": 11.99,
+            "rating": 4.5
+        }
+    ]
+}

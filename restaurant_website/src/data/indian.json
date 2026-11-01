@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "name": "Paneer Butter Masala",
+      "description": "Cubes of paneer in a rich, creamy tomato-based gravy with aromatic spices. Served with naan or rice.",
+      "price": 13.99,
+      "originalPrice": 15.99,
+      "rating": 3,
+      "image": "image/Indian/paneer-butter-masala.webp",
+      "category": "indian"
+    },
+    {
+      "name": "Paneer Tikka",
+      "image": "image/indian/paneer-tikka.webp",
+      "description": "Cubes of paneer marinated in spices and yogurt, grilled to perfection. Served with mint chutney.",
+      "price": 10.99,
+      "originalPrice": 12.99,
+      "rating": 5
+    },
+    {
+      "name": "Dal Makhani",
+      "description": "Creamy black lentils slow-cooked with butter and spices. A rich and comforting dish.",
+      "price": 900.99,
+      "originalPrice": 11.99,
+      "rating": 4.5,
+      "image": "image/indian/DalMakhani.webp",
+      "category": "indian"
+    },
+    {
+      "name": "Vegetable Samosa",
+      "image": "image/indian/veg-samosa.jpeg",
+      "description": "Crispy pastry filled with spiced potatoes and peas. Served with tamarind and mint chutney.",
+      "price": 5.99,
+      "originalPrice": 6.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Gulab Jamun",
+      "description": "Soft milk-solid dumplings soaked in rose-flavored sugar syrup. A classic Indian dessert.",
+      "price": 40.5,
+      "originalPrice": 50.99,
+      "rating": 5,
+      "image": "image/indian/gulag-jamun.jpeg",
+      "category": "indian"
+    },
+    {
+      "name": "Palak Paneer",
+      "image": "image/indian/palak-paneer.jpeg",
+      "description": "Soft paneer cubes in a creamy spinach gravy, flavored with garlic and spices.",
+      "price": 12.99,
+      "originalPrice": 14.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Aloo Gobi",
+      "description": "Dry curry made with potatoes and cauliflower, cooked with Indian spices.",
+      "price": 90.99,
+      "originalPrice": 110.99,
+      "rating": 4,
+      "image": "image/indian/aloo-gobi.jpeg",
+      "category": "indian"
+    },
+    {
+      "name": "Vegetable Biryani",
+      "image": "image/indian/VegetableBiryani.webp",
+      "description": "Fragrant basmati rice cooked with fresh vegetables, saffron, and aromatic spices. Served with raita.",
+      "price": 11.99,
+      "originalPrice": 13.99,
+      "rating": 4.5
+    }
+  ]
+}

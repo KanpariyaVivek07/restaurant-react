@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "name": "Tacos al Pastor",
+            "image": "image/mexican/Tacos al Pastor.jpeg",
+            "description": "Marinated pork tacos with pineapple, onions, and cilantro on corn tortillas.",
+            "price": 12.99,
+            "originalPrice": 14.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Chicken Enchiladas",
+            "image": "image/mexican/Chicken Enchiladas.jpeg",
+            "description": "Corn tortillas rolled around chicken filling and covered with chili sauce and cheese.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 5
+        },
+        {
+            "name": "Guacamole",
+            "image": "image/mexican/Guacamole.jpeg",
+            "description": "Fresh avocado dip with lime, cilantro, onions, and tomatoes. Served with tortilla chips.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Chiles Rellenos",
+            "image": "image/mexican/Chiles Rellenos.jpeg",
+            "description": "Poblano peppers stuffed with cheese, battered and fried, served with tomato sauce.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 5
+        },
+        {
+            "name": "Quesadillas",
+            "image": "image/mexican/Quesadillas.jpeg",
+            "description": "Grilled flour tortillas filled with cheese and your choice of chicken, beef, or vegetables.",
+            "price": 10.99,
+            "originalPrice": 12.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Pozole",
+            "image": "image/mexican/Pozole.jpeg",
+            "description": "Traditional Mexican soup with hominy, pork, and red chiles, garnished with radish and lime.",
+            "price": 12.99,
+            "originalPrice": 14.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Churros",
+            "image": "image/mexican/Churros.jpeg",
+            "description": "Crispy fried dough pastries dusted with cinnamon sugar, served with chocolate sauce.",
+            "price": 7.99,
+            "originalPrice": 8.99,
+            "rating": 5
+        },
+        {
+            "name": "Horchata",
+            "image": "image/mexican/Horchata.jpeg",
+            "description": "Sweet rice milk drink flavored with cinnamon and vanilla.",
+            "price": 4.99,
+            "originalPrice": 5.99,
+            "rating": 4.5
+        }
+    ]
+}

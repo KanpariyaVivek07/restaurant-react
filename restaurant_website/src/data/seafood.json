@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "name": "Grilled Salmon",
+            "image": "image/seafood/Grilled Salmon.jpeg",
+            "description": "Fresh Atlantic salmon fillet with lemon butter sauce and seasonal vegetables.",
+            "price": 22.99,
+            "originalPrice": 24.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Shrimp Scampi",
+            "image": "image/seafood/Shrimp Scampi.jpeg",
+            "description": "Jumbo shrimp sautéed in garlic butter and white wine sauce over linguine.",
+            "price": 19.99,
+            "originalPrice": 21.99,
+            "rating": 5
+        },
+        {
+            "name": "Fish Tacos",
+           "image": "image/seafood/Fish Tacos.jpeg",
+            "description": "Beer-battered cod with cabbage slaw, chipotle mayo, and lime in corn tortillas.",
+            "price": 15.99,
+            "originalPrice": 17.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Lobster Roll",
+            "image": "image/seafood/Lobster Roll.jpeg",
+            "description": "Fresh lobster meat with light mayo and celery on a buttered, toasted roll.",
+            "price": 24.99,
+            "originalPrice": 26.99,
+            "rating": 5
+        },
+        {
+            "name": "Seafood Paella",
+            "image": "image/seafood/Seafood Paella.jpeg",
+            "description": "Spanish rice dish with shrimp, mussels, clams, and chorizo cooked in saffron broth.",
+            "price": 26.99,
+            "originalPrice": 28.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Oysters Rockefeller",
+            "image": "image/seafood/Oysters Rockefeller.jpeg",
+            "description": "Oysters on the half shell with spinach, herbs, and breadcrumb topping.",
+            "price": 18.99,
+            "originalPrice": 20.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Tuna Poke Bowl",
+            "image": "image/seafood/Tuna Poke Bowl.jpeg",
+            "description": "Fresh ahi tuna cubes with avocado, edamame, and sesame over sushi rice.",
+            "price": 17.99,
+            "originalPrice": 19.99,
+            "rating": 5
+        },
+        {
+            "name": "Crab Cakes",
+            "image": "image/seafood/Crab Cakes.jpeg",
+            "description": "Lump crab meat cakes with remoulade sauce and lemon wedge.",
+            "price": 16.99,
+            "originalPrice": 18.99,
+            "rating": 4.5
+        }
+    ]
+}

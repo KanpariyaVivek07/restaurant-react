@@ -1,0 +1,393 @@
+{
+    "items": [
+        {      
+            "name": "Classic Cheeseburger",
+            "image": "image/american/Classic Cheeseburger.jpeg",
+            "description": "Juicy beef patty with American cheese, lettuce, tomato, onion, and special sauce on a brioche bun.",
+            "price": 12.99,
+            "originalPrice": 14.99,
+            "rating": 4.5
+        },
+        {
+            "name": "BBQ Ribs",
+            "image": "image/american/BBQ Ribs.jpeg",
+            "description": "Slow-cooked pork ribs glazed with house BBQ sauce, served with coleslaw and fries.",
+            "price": 18.99,
+            "originalPrice": 20.99,
+            "rating": 5
+        },
+        {
+            "name": "Mac & Cheese",
+            "image": "image/american/Mac & Cheese.jpeg",
+            "description": "Creamy elbow macaroni with four-cheese sauce and breadcrumb topping.",
+            "price": 10.99,
+            "originalPrice": 12.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Pulled Pork Sandwich",
+            "image": "image/bbq/Pulled Pork Sandwich.jpeg",
+            "description": "Slow-smoked pork shoulder with BBQ sauce on a brioche bun, served with coleslaw.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Beef Brisket",
+           "image": "image/bbq/Beef Brisket.jpeg",
+            "description": "Texas-style smoked brisket with our signature dry rub, served with pickles and onions.",
+            "price": 18.99,
+            "originalPrice": 20.99,
+            "rating": 5
+        },
+        {
+            "name": "St. Louis Ribs",
+            "image": "image/bbq/St. Louis Ribs.jpeg",
+            "description": "Full rack of pork ribs with your choice of sauce (original, spicy, or sweet).",
+            "price": 22.99,
+            "originalPrice": 24.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Fresh Lemonade",
+            "image": "image/beverages/Fresh Lemonade.jpeg",
+            "description": "Homemade lemonade with fresh squeezed lemons and a hint of mint.",
+            "price": 3.99,
+            "originalPrice": 4.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Iced Coffee",
+           "image": "image/beverages/Iced Coffee.jpeg",
+            "description": "Cold brewed coffee with milk and sweetener of your choice.",
+            "price": 4.99,
+            "originalPrice": 5.99,
+            "rating": 5
+        },
+        {
+            "name": "Mojito",
+            "image": "image/beverages/Mojito.jpeg",
+            "description": "Classic Cuban cocktail with rum, lime, mint, and soda water.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Avocado Toast",
+            "image": "image/breakfast/Avocado Toast.jpeg",
+            "description": "Sourdough toast with smashed avocado, cherry tomatoes, and poached eggs.",
+            "price": 9.99,
+            "originalPrice": 10.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Buttermilk Pancakes",
+            "image": "image/breakfast/Buttermilk Pancakes.jpeg",
+            "description": "Stack of fluffy pancakes with maple syrup and butter.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 5
+        },
+        {
+            "name": "Eggs Benedict",
+            "image": "image/breakfast/Eggs Benedict.jpeg",
+            "description": "English muffin with Canadian bacon, poached eggs, and hollandaise sauce.",
+            "price": 12.99,
+            "originalPrice": 13.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Kung Pao Chicken",
+            "image": "image/chinese/Kung Pao Chicken.jpeg",
+            "description": "Spicy stir-fried chicken with peanuts, vegetables, and chili peppers in a savory sauce.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Pork Dumplings",
+            "image": "image/chinese/Pork Dumplings.jpeg",
+            "description": "Steamed dumplings filled with seasoned pork and vegetables. Served with soy-vinegar dip.",
+            "price": 8.99,
+            "originalPrice": 10.99,
+            "rating": 5
+        },
+        {
+            "name": "Peking Duck",
+            "image": "image/chinese/Peking Duck.jpeg",
+            "description": "Crispy roasted duck served with thin pancakes, hoisin sauce, and scallions.",
+            "price": 24.99,
+            "originalPrice": 27.99,
+            "rating": 4.5
+        },
+
+        
+        {
+            "name": "Chocolate Lava Cake",
+            "image": "image/dessert/Chocolate Lava Cake.jpeg",
+            "description": "Warm chocolate cake with a molten center, served with vanilla ice cream.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 4.5
+        },
+        {
+            "name": "New York Cheesecake",
+            "image": "image/dessert/New York Cheesecake.jpeg",
+            "description": "Classic creamy cheesecake with graham cracker crust and strawberry topping.",
+            "price": 7.99,
+            "originalPrice": 8.99,
+            "rating": 5
+        },
+        {
+            "name": "Tiramisu",
+            "image": "image/dessert/Tiramisu.jpeg",
+            "description": "Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Paneer Butter Masala",
+            "image": "image/Indian/paneer-butter-masala.webp",
+            "description": "Cubes of paneer in a rich, creamy tomato-based gravy with aromatic spices. Served with naan or rice.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Vegetable Biryani",
+            "image": "image/indian/VegetableBiryani.webp",
+            "description": "Fragrant basmati rice cooked with fresh vegetables, saffron, and aromatic spices. Served with raita.",
+            "price": 11.99,
+            "originalPrice": 13.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Masala Dosa",
+            "image": "image/indian/masala-dosa.webp",
+            "description": "Crispy rice crepe stuffed with spiced potato filling, served with coconut chutney and sambar.",
+            "price": 8.99,
+            "originalPrice": 10.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Margherita Pizza",
+            "image": "image/italian/Margherita Pizza.jpeg",
+            "description": "Classic pizza with tomato sauce, fresh mozzarella, basil, and a drizzle of olive oil.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "image": "image/italian/Spaghetti Carbonara.jpeg",
+            "description": "Pasta with creamy egg sauce, pancetta, and pecorino cheese. A Roman classic.",
+            "price": 15.99,
+            "originalPrice": 17.99,
+            "rating": 5
+        },
+        {
+            "name": "Lasagna",
+            "image": "image/italian/Lasagna.jpeg",
+            "description": "Layers of pasta, rich meat sauce, béchamel, and melted cheese baked to perfection.",
+            "price": 16.99,
+            "originalPrice": 18.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Sushi Platter",
+            "image": "image/japanese/Sushi Platter.jpeg",
+            "description": "Assortment of fresh nigiri and maki sushi with wasabi, ginger, and soy sauce.",
+            "price": 24.99,
+            "originalPrice": 27.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Tonkotsu Ramen",
+           "image": "image/japanese/Tonkotsu Ramen.jpeg",
+            "description": "Rich pork bone broth with noodles, chashu pork, soft-boiled egg, and vegetables.",
+            "price": 15.99,
+            "originalPrice": 17.99,
+            "rating": 5
+        },
+        {
+            "name": "Tempura Platter",
+            "image": "image/japanese/Tempura Platter.jpeg",
+            "description": "Lightly battered and fried shrimp and vegetables with tentsuyu dipping sauce.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Hummus",
+            "image": "image/mediterranean/Hummus.jpeg",
+            "description": "Creamy chickpea dip with tahini, lemon, and garlic, served with pita bread.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Falafel",
+            "image": "image/mediterranean/Falafel.jpeg",
+            "description": "Crispy fried chickpea patties with tahini sauce, served in pita with vegetables.",
+            "price": 10.99,
+            "originalPrice": 11.99,
+            "rating": 5
+        },
+        {
+            "name": "Greek Salad",
+            "image": "image/mediterranean/Greek Salad.jpeg",
+            "description": "Fresh salad with tomatoes, cucumber, red onion, olives, and feta cheese.",
+            "price": 11.99,
+            "originalPrice": 12.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Tacos al Pastor",
+            "image": "image/mexican/Tacos al Pastor.jpeg",
+            "description": "Marinated pork tacos with pineapple, onions, and cilantro on corn tortillas.",
+            "price": 12.99,
+            "originalPrice": 14.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Chicken Enchiladas",
+            "image": "image/mexican/Chicken Enchiladas.jpeg",
+            "description": "Corn tortillas rolled around chicken filling and covered with chili sauce and cheese.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 5
+        },
+        {
+            "name": "Guacamole",
+            "image": "image/mexican/Guacamole.jpeg",
+            "description": "Fresh avocado dip with lime, cilantro, onions, and tomatoes. Served with tortilla chips.",
+            "price": 8.99,
+            "originalPrice": 9.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Grilled Salmon",
+            "image": "image/seafood/Grilled Salmon.jpeg",
+            "description": "Fresh Atlantic salmon fillet with lemon butter sauce and seasonal vegetables.",
+            "price": 22.99,
+            "originalPrice": 24.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Shrimp Scampi",
+            "image": "image/seafood/Shrimp Scampi.jpeg",
+            "description": "Jumbo shrimp sautéed in garlic butter and white wine sauce over linguine.",
+            "price": 19.99,
+            "originalPrice": 21.99,
+            "rating": 5
+        },
+        {
+            "name": "Fish Tacos",
+           "image": "image/seafood/Fish Tacos.jpeg",
+            "description": "Beer-battered cod with cabbage slaw, chipotle mayo, and lime in corn tortillas.",
+            "price": 15.99,
+            "originalPrice": 17.99,
+            "rating": 4.5
+        },
+
+
+         {
+            "name": "Pad Thai",
+            "image": "image/thai/Pad Thai.jpeg",
+            "description": "Stir-fried rice noodles with eggs, tofu, shrimp, bean sprouts, and peanuts in tangy sauce.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Tom Yum Soup",
+            "image": "image/thai/Tom Yum Soup.jpeg",
+            "description": "Hot and sour soup with shrimp, mushrooms, lemongrass, galangal, and kaffir lime leaves.",
+            "price": 10.99,
+            "originalPrice": 12.99,
+            "rating": 5
+        },
+        {
+            "name": "Green Curry",
+            "image": "image/thai/Green Curry.jpeg",
+            "description": "Coconut milk curry with green chili paste, chicken, eggplant, and basil.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 4.5
+        },
+
+
+
+        {
+            "name": "Vegan Buddha Bowl",
+            "image": "image/vegan/Vegan Buddha Bowl.jpeg",
+            "description": "Roasted vegetables, quinoa, chickpeas, and greens with tahini dressing.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Vegan Tacos",
+            "image": "image/vegan/Vegan Tacos.jpeg",
+            "description": "Lentil-walnut meat tacos with avocado, cilantro lime sauce, and fresh veggies.",
+            "price": 12.99,
+            "originalPrice": 14.99,
+            "rating": 5
+        },
+        {
+            "name": "Vegan Mac & Cheese",
+            "image": "image/vegan/Vegan Mac & Cheese.jpeg",
+            "description": "Creamy cashew-based cheese sauce with elbow macaroni.",
+            "price": 11.99,
+            "originalPrice": 13.99,
+            "rating": 4.5
+        },
+
+
+        {
+            "name": "Veggie Burger",
+            "image": "image/vegetarian/Veggie Burger.jpeg",
+            "description": "House-made black bean and quinoa patty with all the classic burger fixings.",
+            "price": 12.99,
+            "originalPrice": 14.99,
+            "rating": 4.5
+        },
+        {
+            "name": "Stuffed Bell Peppers",
+            "image": "image/vegetarian/Stuffed Bell Peppers.jpeg",
+            "description": "Bell peppers filled with quinoa, black beans, corn, and cheese, baked to perfection.",
+            "price": 13.99,
+            "originalPrice": 15.99,
+            "rating": 5
+        },
+        {
+            "name": "Eggplant Parmesan",
+            "image": "image/vegetarian/Eggplant Parmesan.jpeg",
+            "description": "Breaded and fried eggplant slices layered with marinara and melted mozzarella.",
+            "price": 14.99,
+            "originalPrice": 16.99,
+            "rating": 4.5
+        }
+    ]
+}

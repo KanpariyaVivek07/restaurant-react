@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "name": "BBQ Ribs",
+      "image": "image/american/BBQ Ribs.jpeg",
+      "description": "Slow-cooked pork ribs glazed with house BBQ sauce, served with coleslaw and fries.",
+      "price": 18.99,
+      "originalPrice": 20.99,
+      "rating": 5
+    },
+    {
+      "name": "Mac & Cheese",
+      "image": "image/american/Mac & Cheese.jpeg",
+      "description": "Creamy elbow macaroni with four-cheese sauce and breadcrumb topping.",
+      "price": 10.99,
+      "originalPrice": 12.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Buffalo Wings",
+      "image": "image/american/Buffalo Wings.jpeg",
+      "description": "Crispy chicken wings tossed in spicy buffalo sauce with celery and blue cheese dip.",
+      "price": 11.99,
+      "originalPrice": 13.99,
+      "rating": 5
+    },
+    {
+      "name": "Buttermilk Pancakes",
+      "image": "image/american/Buttermilk Pancakes.jpeg",
+      "description": "Fluffy pancakes served with maple syrup and butter.",
+      "price": 8.99,
+      "originalPrice": 9.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Club Sandwich",
+      "image": "image/american/Club Sandwich.jpeg",
+      "description": "Triple-decker sandwich with turkey, bacon, lettuce, tomato, and mayo.",
+      "price": 11.99,
+      "originalPrice": 12.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Apple Pie",
+      "image": "image/american/Apple Pie.jpeg",
+      "description": "Classic American pie with cinnamon-spiced apples in flaky crust, served with vanilla ice cream.",
+      "price": 7.99,
+      "originalPrice": 8.99,
+      "rating": 5
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "image": "image/american/Chocolate Milkshake.jpeg",
+      "description": "Thick and creamy chocolate milkshake topped with whipped cream.",
+      "price": 5.99,
+      "originalPrice": 6.99,
+      "rating": 4.5
+    }
+  ]
+}
